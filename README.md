@@ -25,12 +25,6 @@ The designs were created to the following widths:
 - Mobile: 375px
 - Desktop: 1440px
 
-### Screenshot
-
-
-![](./design/screen1.jpg)
-
-
 ### Links
 - Live Site URL: [https://sahradordete.github.io/sunnyside/]
 
